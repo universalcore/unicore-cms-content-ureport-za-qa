@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "ccfef3bc2c8640d0a0beb85d1fac2102", 
+  "language": "eng_GB", 
+  "title": "Part 1", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "part-1", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
