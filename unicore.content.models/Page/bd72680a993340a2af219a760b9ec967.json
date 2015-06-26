@@ -2,16 +2,16 @@
   "subtitle": "A man wants to sacrifice his child", 
   "description": "", 
   "language": "eng_GB", 
-  "title": "Child sacrifice ", 
+  "title": "\u201cThere is a man who wants to sacrifice his daughter and the girl is with us right now. I, as U-reporter have reported the matter to the Community Development Officer.\u201d ", 
   "primary_category": "ccfef3bc2c8640d0a0beb85d1fac2102", 
   "created_at": "2015-06-15T17:52:38+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-06-17T14:02:26.518793+00:00", 
+  "modified_at": "2015-06-26T07:36:42.437208+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 3, 
   "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "child-sacrifice", 
+  "slug": "man-wants-to-sacrifice-his-daughter", 
   "uuid": "bd72680a993340a2af219a760b9ec967"
 }
