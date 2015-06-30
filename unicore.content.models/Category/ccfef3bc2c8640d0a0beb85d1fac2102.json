@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "ccfef3bc2c8640d0a0beb85d1fac2102", 
   "language": "eng_GB", 
-  "title": "U Reporters' Stories", 
+  "title": "Ur Story", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "u-reporters-stories", 
