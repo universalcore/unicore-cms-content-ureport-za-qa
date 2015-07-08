@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "It is a life threatening disease!", 
+  "description": "Keep Safe.", 
   "language": "eng_GB", 
-  "title": "Typhoid; Keep Safe", 
+  "title": "Typhoid!", 
   "primary_category": "ccfef3bc2c8640d0a0beb85d1fac2102", 
   "created_at": "2015-06-15T17:57:16+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-08T08:04:02.517313+00:00", 
+  "modified_at": "2015-07-08T09:16:48.856731+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
