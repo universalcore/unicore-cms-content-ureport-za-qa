@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "My father plots with the village witchdoctor", 
+  "description": "Child sacrifice myths!", 
   "language": "eng_GB", 
-  "title": "A Father wants to sacrifice his own daughter", 
+  "title": "Father shocks daughter", 
   "primary_category": "ccfef3bc2c8640d0a0beb85d1fac2102", 
   "created_at": "2015-06-15T17:52:38+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-07T14:35:03.840728+00:00", 
+  "modified_at": "2015-07-08T09:38:50.048767+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
